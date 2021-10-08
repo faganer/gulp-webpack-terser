@@ -1,0 +1,38 @@
+{
+  "name": "gulp-webpack-terser",
+  "description": "gulp webpack-stream terser",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/register": "^7.15.3",
+    "@popperjs/core": "2.10.1",
+    "bootstrap": "^5.1.1",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.5",
+    "cssnano": "^5.0.8",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-changed": "^4.0.3",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.0.1",
+    "postcss": "^8.3.7",
+    "sass": "^1.42.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-twbs-bootstrap": "^2.2.3",
+    "webpack": "^5.53.0",
+    "webpack-stream": "^7.0.0"
+  }
+}
